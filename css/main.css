@@ -1,0 +1,25 @@
+body{
+    font-family: 'Titillium Web', sans-serif;
+}
+
+header{
+    margin-top: 8%;
+}
+
+#testimonial{
+    background-color: #f1f1f1;
+    padding: 50 0 30 0;
+    text-align: center;
+    margin-top: 40px;
+}
+
+footer{
+    background: url("../img/imgcontact.png") no-repeat;
+    background-size: cover;
+}
+
+@media (max-width: 700px){
+    #btn1{
+        margin-left: 35%;
+    }
+}
